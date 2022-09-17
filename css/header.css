@@ -1,0 +1,19 @@
+header{
+    text-align: left;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#menu{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    text-align: center;
+}
+
+button{
+    all: unset;
+    cursor: pointer;
+    font-style: italic;
+}

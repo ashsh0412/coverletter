@@ -1,0 +1,18 @@
+@import "header.css";
+@import "picture.css";
+@import "career.css";
+@import "box.css";
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: Georgia, serif;
+    margin: 0;
+}
+
+img{
+    object-fit: cover;
+}
+

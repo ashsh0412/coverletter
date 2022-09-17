@@ -1,0 +1,21 @@
+.box2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.person-pic{
+    transition: all 0.3s ease-in-out;
+    position: relative;
+    top: 100px;
+    filter: drop-shadow(4px 4px 4px gray);
+    border-radius: 5px;
+}
+
+.person-pic:hover{
+    transform: scale(1.1);
+    opacity: 80%;
+}
+
+#name{
+    color: azure;
+}
